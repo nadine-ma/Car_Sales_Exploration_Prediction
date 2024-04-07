@@ -8,3 +8,5 @@ Data in csv file needs to be downloaded from Kaggle to run code.
 The Jupyter Notebook contains dataset exploration and analysis, especially looking at possible relationships between different attributes and vehicle selling prices.
 Additionally the notebook contains different approaches to selling price prediction through regression.
 
+Results are shown in the Jupyter Notebook file.
+
