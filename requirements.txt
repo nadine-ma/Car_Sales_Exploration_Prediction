@@ -1,4 +1,5 @@
 association-metrics >= 0.0.1
+dateparser >= 1.2.1
 dython >= 0.7.9
 matplotlib >= 3.10.0
 notebook >= 7.3.2
